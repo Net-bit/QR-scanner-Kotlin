@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QRonKotlin</string>
+    <string name="qronkotlin">QRonKotlin</string>
+    <string name="todo">TODO</string>
+    <string name="lol">Lol</string>
+</resources>
